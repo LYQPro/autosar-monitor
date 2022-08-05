@@ -1,8 +1,8 @@
 plugins:
-  lyq/autosar-monitor:
+  lyq10085/autosar-monitor:
     plugins:
     - assign
 external_plugins:
-  lyq:
+  lyq10085:
     
 

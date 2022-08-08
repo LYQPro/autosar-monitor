@@ -3,6 +3,8 @@ plugins:
     plugins:
     - assign
     - approve
+    - lgtm
+    - hello
 external_plugins:
   lyq10085:
     

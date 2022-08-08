@@ -2,7 +2,6 @@ plugins:
   lyq10085/autosar-monitor:
     plugins:
     - assign
-    - approve
 external_plugins:
   lyq10085:
     

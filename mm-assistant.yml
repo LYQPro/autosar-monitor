@@ -2,6 +2,3 @@ plugins:
   lyq10085/autosar-monitor:
     plugins:
     - assign
-    - what 
-    - the
-    - hell
